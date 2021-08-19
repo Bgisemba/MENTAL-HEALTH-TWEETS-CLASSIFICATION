@@ -6,12 +6,12 @@ Text classification using tensor flow.
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Using tweets scrapped from Twitter, we would like tocClassify the Mental Disorder.
+Using tweets scrapped from Twitter, we would like to classify the Mental Health disorder.
 
 We intend to achieve an accuracy score of at least 80%. 
 
 * Follow us to see whether we will be able to achieve an accuracy score of at least 80% or more.
-* The project is summarized in Google [slides](https://docs.google.com/presentation/d/12kwmJf5c-5Ixg-xO6dZ2T3BzDqvJLdjFWmFd8wbEIHg/edit#slide=id.ge9f987c7d4_0_175)
+* The project is summarized in [Google slides](https://docs.google.com/presentation/d/12kwmJf5c-5Ixg-xO6dZ2T3BzDqvJLdjFWmFd8wbEIHg/edit#slide=id.ge9f987c7d4_0_175)
 
 
 ### Built With
