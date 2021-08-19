@@ -6,7 +6,7 @@ Text classification using tensor flow.
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Using tweets scrapped from Twitter we would like to Classify the Type of Mental Disorder.
+Using tweets scrapped from Twitter, we would like tocClassify the Mental Disorder.
 
 We intend to achieve an accuracy score of at least 80%. 
 
@@ -22,23 +22,24 @@ Here are the major tools that we used for the data analysis
 * [Python](https://www.python.org/)
 * [Git](https://github.com/)
 * [Tensorflow](https://www.tensorflow.org)
+* [WandB](https://wandb.ai/site)
 * [Streamlit](https://streamlit.io/)
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-We did this analysis with the intention of improving our skills in machine learning. However, the models used in this analysis could be used for deep learning to identify the contents of an image. With a good train dataset, the code in this can be scaled to identify different characters and contents of an image
+We did this analysis with the intention of improving our skills in text processing for machine learning.
 
 <!-- ROADMAP -->
 ## Roadmap
 
-Following our analysis, we identified some gaps in the data and would like to continue improving the dashboard and analysis in order to come up with a more accurate prediction
+Following our analysis, we identified some gaps in the data and would like to continue improving the analysis in order to come up with a more accurate prediction
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-We would love to continue improving this analysis. Please contribute.. :smiley: :smiley:
+We would love to continue improving this analysis. Please contribute... :smiley:
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
